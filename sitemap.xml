@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <!--
+    ════════════════════════════════════════════════════════════
+    Joyful Herbal Care – sitemap.xml
+    Single-page site: ONE <url> entry for the homepage.
+    All product & category images are listed here so Google
+    can discover and index them via the Image Sitemap extension.
+    Fragment identifiers (#) are intentionally omitted because
+    Google ignores everything after the # symbol.
+    ════════════════════════════════════════════════════════════
+  -->
+
+  <url>
+    <loc>https://hizasco.github.io/oliviastore/</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+
+    <!-- ── Site OG image ── -->
+    <image:image>
+      <image:loc>https://hizasco.github.io/oliviastore/media/og-image.jpg</image:loc>
+      <image:title>Joyful Herbal Care – Natural Herbal Supplements Nigeria</image:title>
+      <image:caption>100% natural Nigerian herbal supplements. Shop online with WhatsApp checkout.</image:caption>
+    </image:image>
+
+    <!-- ── Category images ── -->
+    <image:image>
+      <image:loc>https://hizasco.github.io/oliviastore/media/category-green-nature.jpg</image:loc>
+      <image:title>Green Nature Herbal Supplement Category – Rebootat FS, DD, CD, Aloe Vera Soursop</image:title>
+      <image:caption>Green Nature herbal wellness products available at Joyful Herbal Care Nigeria</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://hizasco.github.io/oliviastore/media/category-jinja.jpg</image:loc>
+      <image:title>Jinja Herbal Extract Category – 750ml and 450ml NAFDAC Registered</image:title>
+      <image:caption>Jinja Herbal Extract – 100% natural African herbs, NAFDAC registered</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://hizasco.github.io/oliviastore/media/category-jigsimur.jpg</image:loc>
+      <image:title>Jigsimur Herbal Drink Category – Natural Wellness Supplement Nigeria</image:title>
+      <image:caption>Jigsimur herbal wellness drink available at Joyful Herbal Care</image:caption>
+    </image:image>
+
+    <!-- ── Greenature Rebootat FS 750ml ── -->
+    <image:image>
+      <image:loc>https://hizasco.github.io/oliviastore/media/green-nature-RebootatFS-1.jpg</image:loc>
+      <image:title>Greenature Rebootat FS 750ml – Fever Shield Natural Herbal Supplement Nigeria</image:title>
+      <image:caption>Rebootat FS 750ml supports immune health, healthy digestion and natural detoxification</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://hizasco.github.io/oliviastore/media/green-nature-RebootatFS-2.jpg</image:loc>
+      <image:title>Greenature Rebootat FS 750ml – Promotes Gut Balance and Immune Support</image:title>
+      <image:caption>Rebootat FS 750ml promotes natural gut balance and intestinal health</image:caption>
+    </image:image>
+
+    <!-- ── Greenature Rebootat DD 750ml ── -->
+    <image:image>
+      <image:loc>https://hizasco.github.io/oliviastore/media/green-nature-RebootatDD-1.jpg</image:loc>
+      <image:title>Greenature Rebootat DD 750ml – Supports Liver, Kidney and Heart Health</image:title>
+      <image:caption>Rebootat DD 750ml supports liver, kidney and heart health naturally</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://hizasco.github.io/oliviastore/media/green-nature-RebootatDD-2.jpg</image:loc>
+      <image:title>Greenature Rebootat DD 750ml – Fights Infections and Bacteria</image:title>
+      <image:caption>Rebootat DD 750ml fights infections and bacteria including STDs</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://hizasco.github.io/oliviastore/media/green-nature-RebootatDD-3.jpg</image:loc>
+      <image:title>Greenature Rebootat DD 750ml – Lowers Blood Sugar and Supports Diabetes Management</image:title>
+      <image:caption>Rebootat DD 750ml helps lower blood sugar levels naturally</image:caption>
+    </image:image>
+
+    <!-- ── Greenature Rebootat CD 750ml ── -->
+    <image:image>
+      <image:loc>https://hizasco.github.io/oliviastore/media/green-nature-RebootatCD-1.jpg</image:loc>
+      <image:title>Greenature Rebootat CD 750ml – Natural Herbal Wellness Supplement Nigeria</image:title>
+      <image:caption>Rebootat CD 750ml supports immune function and overall body vitality</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://hizasco.github.io/oliviastore/media/green-nature-RebootatCD-2.jpg</image:loc>
+      <image:title>Greenature Rebootat CD 750ml – Antioxidant Rich Herbal Formula</image:title>
+      <image:caption>Rebootat CD 750ml rich in natural antioxidants and supports immune health</image:caption>
+    </image:image>
+
+    <!-- ── Greenature Aloe Vera Soursop ── -->
+    <image:image>
+      <image:loc>https://hizasco.github.io/oliviastore/media/green-nature-soursop-1.jpg</image:loc>
+      <image:title>Greenature Aloe Vera Soursop – Natural Herbal Supplement Nigeria</image:title>
+      <image:caption>Greenature Aloe Vera Soursop herbal supplement for immune support and detox</image:caption>
+    </image:image>
+
+    <!-- ── Jigsimur Herbal Drink ── -->
+    <image:image>
+      <image:loc>https://hizasco.github.io/oliviastore/media/jigsimur-1.jpg</image:loc>
+      <image:title>Jigsimur Herbal Drink – Premium Natural Wellness Supplement Nigeria</image:title>
+      <image:caption>Jigsimur herbal drink supports digestion, detoxification and immune health</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://hizasco.github.io/oliviastore/media/jigsimur-2.jpg</image:loc>
+      <image:title>Jigsimur Herbal Drink – Natural Plant Extract Formula</image:title>
+      <image:caption>Jigsimur herbal drink with carefully selected traditional herbal ingredients</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://hizasco.github.io/oliviastore/media/jigsimur-3.jpg</image:loc>
+      <image:title>Jigsimur Herbal Drink – Daily Wellness Support Nigeria</image:title>
+      <image:caption>Jigsimur herbal drink suitable for daily wellness support</image:caption>
+    </image:image>
+
+    <!-- ── Jinja Herbal Extract 750ml ── -->
+    <image:image>
+      <image:loc>https://hizasco.github.io/oliviastore/media/jinja-picture-1.jpg</image:loc>
+      <image:title>Jinja Herbal Extract 750ml – NAFDAC Registered Natural African Herbs Nigeria</image:title>
+      <image:caption>Jinja Herbal Extract 750ml – your future will thank you</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://hizasco.github.io/oliviastore/media/jinja-picture-2.jpg</image:loc>
+      <image:title>Jinja Herbal Extract – 100% Safe, Effective and No Side Effects</image:title>
+      <image:caption>Jinja Herbal Extract is 100% safe, effective with no side effects</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://hizasco.github.io/oliviastore/media/jinja-picture-3.jpg</image:loc>
+      <image:title>Jinja Herbal Extract 750ml – Clinically Tested and Approved</image:title>
+      <image:caption>Jinja Herbal Extract clinically tested and approved herbal supplement</image:caption>
+    </image:image>
+
+    <!-- ── Jinja Herbal Extract 450ml ── -->
+    <image:image>
+      <image:loc>https://hizasco.github.io/oliviastore/media/jinja-small-picture-3.jpg</image:loc>
+      <image:title>Jinja Herbal Extract 450ml – NAFDAC Registered Natural African Herbs Nigeria</image:title>
+      <image:caption>Jinja Herbal Extract 450ml clinically tested and NAFDAC approved</image:caption>
+    </image:image>
+
+    <!-- ── Partner programme ── -->
+    <image:image>
+      <image:loc>https://hizasco.github.io/oliviastore/media/profit-from-greennature.jpg</image:loc>
+      <image:title>Earn From Greenature – Become a Joyful Herbal Care Partner in Nigeria</image:title>
+      <image:caption>Join our distributor programme and earn by selling natural herbal products in Nigeria</image:caption>
+    </image:image>
+
+  </url>
+
+</urlset>

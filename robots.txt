@@ -1,0 +1,15 @@
+# ═══════════════════════════════════════════════
+# robots.txt — Joyful Herbal Care
+# Tells all search engine crawlers what to index
+# ═══════════════════════════════════════════════
+
+# Allow all crawlers full access
+User-agent: *
+Allow: /
+
+# Block any admin or private paths (add more if needed)
+Disallow: /private/
+Disallow: /admin/
+
+# ── Sitemap location ──
+Sitemap: https://hizasco.github.io/oliviastore/sitemap.xml
