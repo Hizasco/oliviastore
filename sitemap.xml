@@ -4,7 +4,7 @@
 
   <!--
     ════════════════════════════════════════════════════════════
-    Joyful Herbal Care – sitemap.xml
+    Olivia Store – sitemap.xml
     Single-page site: ONE <url> entry for the homepage.
     All product & category images are listed here so Google
     can discover and index them via the Image Sitemap extension.
@@ -22,7 +22,7 @@
     <!-- ── Site OG image ── -->
     <image:image>
       <image:loc>https://hizasco.github.io/oliviastore/media/og-image.jpg</image:loc>
-      <image:title>Joyful Herbal Care – Natural Herbal Supplements Nigeria</image:title>
+      <image:title>Olivia Store – Natural Herbal Supplements Nigeria</image:title>
       <image:caption>100% natural Nigerian herbal supplements. Shop online with WhatsApp checkout.</image:caption>
     </image:image>
 
@@ -30,7 +30,7 @@
     <image:image>
       <image:loc>https://hizasco.github.io/oliviastore/media/category-green-nature.jpg</image:loc>
       <image:title>Green Nature Herbal Supplement Category – Rebootat FS, DD, CD, Aloe Vera Soursop</image:title>
-      <image:caption>Green Nature herbal wellness products available at Joyful Herbal Care Nigeria</image:caption>
+      <image:caption>Green Nature herbal wellness products available at Olivia Store Nigeria</image:caption>
     </image:image>
 
     <image:image>
@@ -42,7 +42,7 @@
     <image:image>
       <image:loc>https://hizasco.github.io/oliviastore/media/category-jigsimur.jpg</image:loc>
       <image:title>Jigsimur Herbal Drink Category – Natural Wellness Supplement Nigeria</image:title>
-      <image:caption>Jigsimur herbal wellness drink available at Joyful Herbal Care</image:caption>
+      <image:caption>Jigsimur herbal wellness drink available at Olivia Store</image:caption>
     </image:image>
 
     <!-- ── Greenature Rebootat FS 750ml ── -->
@@ -137,7 +137,7 @@
     <!-- ── Partner programme ── -->
     <image:image>
       <image:loc>https://hizasco.github.io/oliviastore/media/profit-from-greennature.jpg</image:loc>
-      <image:title>Earn From Greenature – Become a Joyful Herbal Care Partner in Nigeria</image:title>
+      <image:title>Earn From Greenature – Become a Olivia Store Partner in Nigeria</image:title>
       <image:caption>Join our distributor programme and earn by selling natural herbal products in Nigeria</image:caption>
     </image:image>
 
