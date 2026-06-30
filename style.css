@@ -237,7 +237,7 @@ nav a:hover { color: var(--white); background: var(--glass-b); }
 }
 .cat-card-count { font-size: 0.72rem; color: var(--teal); margin-top: 3px; font-weight: 600; }
 .cat-green  { background: linear-gradient(135deg, #002b1a, #005f3a); }
-.cat-jigsimur { background: linear-gradient(135deg, #2d0036, #7b1fa2); }
+.cat-faforlife { background: linear-gradient(135deg, #2d0036, #7b1fa2); }
 .cat-jinja  { background: linear-gradient(135deg, #00193a, #0057a8); }
 .cat-italian-bodywash { background: linear-gradient(135deg, #3a002a, #b5006b); }
 
@@ -311,7 +311,7 @@ nav a:hover { color: var(--white); background: var(--glass-b); }
   backdrop-filter: blur(6px);
 }
 .tag-green           { background: var(--teal); }
-.tag-jigsimur        { background: #CE93D8; color: #1a001a; }
+.tag-faforlife        { background: #CE93D8; color: #1a001a; }
 .tag-jinja           { background: #64B5F6; color: #001a2e; }
 .tag-italian-bodywash{ background: #F48FB1; color: #2a0010; }
 .tag-ginger          { background: var(--amber); }
