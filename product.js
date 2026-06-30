@@ -81,7 +81,7 @@ Treated water.
   },
   {
     id: 'p3', category: 'green-nature', name: 'Rebootat CD 750ml',
-    price: 25000,
+    price: 30000,
     media: [
       { type: 'image', src: 'media/green-nature-RebootatCD-1.jpg', caption: 'Rebootat CD 750ml – Natural Herbal Wellness Supplement' },
 			{ type: 'image', src: 'media/green-nature-RebootatCD-2.jpg', caption: 'Rebootat CD 750ml – Natural Herbal Wellness Supplement' },
